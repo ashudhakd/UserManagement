@@ -1,4 +1,4 @@
-const apiUrl = "https://jsonplaceholder.typicode.com/users"; // Mock API URL
+const apiUrl = "https://jsonplaceholder.typicode.com/users"; 
 
 // Elements
 const addUserBtn = document.getElementById("addUserBtn");
